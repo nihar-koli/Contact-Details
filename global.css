@@ -14,8 +14,3 @@
 	background-size: cover;
 }
 
-@media only screen and (max-width: 678px){
-	.bg{
-		background-size: 300%;
-	}
-}
